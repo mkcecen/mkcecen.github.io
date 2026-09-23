@@ -10,6 +10,7 @@ Live at https://mkcecen.github.io
 /app-ads.txt            AdMob seller file, shared by every app (must stay at the root)
 /<app>/                 app landing page
 /<app>/privacy/         privacy policy (EN / TR / DE on one page)
+/<app>/delete-account/  account deletion instructions (Google Play asks for this URL)
 ```
 
 ## Adding a new app
